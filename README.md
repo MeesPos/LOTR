@@ -1,5 +1,7 @@
 # Start document
 
+Live versie: http://29035.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/fro/LOTR/startDoc.html
+
 ## bij de training Bootstrap
 
 #### dit document bevat de inhoud van de training: De teksten van een pagina over LOTR: Lord of the Rings.
